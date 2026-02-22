@@ -21,6 +21,7 @@ The project’s significance lies in its role as the architectural blueprint for
 Beyond navigation, it provided the Gombe Geographic Information System (GOGIS) with a foundational dataset for urban planning and street naming. This initiative proved that volunteer-led mobile GIS is a viable, low-cost solution for data-sparse regions. Ultimately, the project’s success elevated Ipede to a CCAO Climate Change Ambassador, highlighting the critical link between spatial data and sustainable urban resilience.
 
 
+<a href="[https://www.example.com](https://qgiscloud.com/Seped/GombeStreetGuideMap/?l=FILLING_STN!%2CBANK!%2CBus_station!%2CHopitals_HealthCENTRES%2CHOTEL!%2CINDUSTRY_OFFICE!%2CMajor_Road!%2CMinistry_GovtAgency!%2COthers!%2CBUILDING_STRC!%2CRESTURANT_EATERTY!%2CRELIOUS_CENTRE!%2CSchoolsAndInstitution%2CSECURITY_AGENCY!%2CHighway!%2CMinor_Road!%2CExpressRD!%2CRailway!&bl=mapnik&t=GombeStreetGuideMap&e=1239998%2C1149430%2C1245068%2C1154425)">You can access the Wepmap here</a>
 
 
 
