@@ -17,7 +17,8 @@ Beyond navigation, the project aimed to provide the Office of the Surveyor Gener
 
 ## Significance
 It's my first innovative, real-life application of GIS in providing solutions (Post undergraduate).
-The project’s significance lies in its role as the architectural blueprint for Gombe State’s modern land administration. By mapping Google Maps blind spots, Ipede transformed local navigation for thousands of visitors and NYSC members, enhancing both safety and accessibility.
+The project’s significance lies in its role as the architectural blueprint for Gombe State’s modern land administration. By mapping Google Maps blind spots, local navigation was transformed for thousands of visitors and NYSC members, enhancing both safety and accessibility.
+
 Beyond navigation, it provided the Gombe Geographic Information System (GOGIS) with a foundational dataset for urban planning and street naming. This initiative proved that volunteer-led mobile GIS is a viable, low-cost solution for data-sparse regions. Ultimately, the project’s success elevated Ipede to a CCAO Climate Change Ambassador, highlighting the critical link between spatial data and sustainable urban resilience.
 
 
