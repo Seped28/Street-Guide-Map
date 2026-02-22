@@ -25,4 +25,4 @@ Beyond navigation, it provided the Gombe Geographic Information System (GOGIS) w
 
 
 
-![The project poster](https://github.com/Seped28/Flood-Risk-Assessment/blob/main/Final-project_AGIS23.jpg)
+![The project poster](https://github.com/Seped28/Street-Guide-Map/blob/main/Street%20Guide%20Gombe6Final.jpg)
